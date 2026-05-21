@@ -94,7 +94,10 @@ Licensed under the **MIT License**. High-performance software for high-impact te
 ---
 
 ### *Forging the Future of Distributed Intelligence.*
-**Developed by [Daniel Lopez](https://github.com/daniellopez882)** 🔮
+
+---
+
+---
 
 ---
 
